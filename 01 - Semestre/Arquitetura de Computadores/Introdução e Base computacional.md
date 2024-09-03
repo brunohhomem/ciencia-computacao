@@ -41,3 +41,26 @@ Este resumo explora os componentes e a evolução dos sistemas computacionais, d
 ### **Teoria da Computação:**
 
 - **Máquina de Turing:** Uma base matemática essencial para a teoria da computação, ilustrando os princípios fundamentais dos computadores modernos.
+
+------
+
+03/09/2024
+
+## Software de Sistema
+
+O software de sistema é o software básico e o principal do sistema operacional.
+
+O papel do Sistema Operacional
+
+Sistema operacional: Principal software de sistema, responsável por reconhecer o hardware além de fornecer aos programas acesso ao processador e garantir transparência no acesso aos periféricos.
+
+O sistema operacional funciona como um intermediário que sabe como executar cada função no hardware livre.
+
+Outras funções do OS:
+
+Cuida da alocação de armazenamento (memória principal e secundária)
+Informa quais os quais programas armazenam dados e quais podem acessar o hardware
+Gerencia o uso do processador pelos programas
+Tendências para o futuro dos SO:
+
+Com a integração de computadores a celulares e tablets, existe um grande foco no desenvolvimento e melhoria dos SO para mobile.
