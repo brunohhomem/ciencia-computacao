@@ -64,3 +64,23 @@ Gerencia o uso do processador pelos programas
 Tendências para o futuro dos SO:
 
 Com a integração de computadores a celulares e tablets, existe um grande foco no desenvolvimento e melhoria dos SO para mobile.
+
+-------
+
+04/10/2024
+
+Comunicação em Rede e Sistemas Computacionais
+
+Origem da internet
+ARPANET - Rede criada pelo Departamento de Defesa norte-americano para permitir a comunicação entre computadores.
+Internet discada
+As empresas de telefonia assumiram o papel de mover conexões à internet para os usuários domésticos.
+
+Surgiu assim a internet discada que se conecta como se estivéssemos fazendo um telefonema e atingia taxas de transmissão de 14.400 bps.
+
+Endereço de IP e Roteador
+O endereço de IP é um identificador de um computador. Consiste em uma sequência de quatro números de 0 a 255.
+
+Os roteadores funcionam com o direcionamento de requêtes e responses.
+
+PC ↔ Roteador ↔ Servidor
