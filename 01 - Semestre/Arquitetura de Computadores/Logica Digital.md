@@ -13,3 +13,22 @@ Assim, é possível construir circuitos lógicos que possuem a capacidade de pro
 Os valores 0 e 1 são considerados como 0 = FALSO e 1 = VERDADEIRO.
 
  # Operadores e portas lógicas básicas
+
+	- OR
+	- NOR (Inverso do OR)
+	- XOR (OR exclusivo)
+	- XNOR (Coincidência)
+	- AND
+	- NAND (Inverso de AND)
+	- NOT
+	
+#Módulo 2 - Portas e operações lógicas
+
+As expressões lógicas, também denominadas como funções lógicas, podem ser definidas da mesma forma que uma expressão algébrica, isto é, com o uso de sinais de entrada (variáveis lógicas — binárias), ligados por conectivos lógicos (símbolos que representarão uma operação lógica, com parênteses, opcionalmente) e também com o sinal de igualdade (=), produzindo, como resultado, um único sinal de saída.
+
+Na avaliação de uma expressão lógica, uma ordem de precedência deverá ser seguida da mesma forma que é considerada em uma expressão aritmética, de acordo com o definido a seguir:
+
+	- Avalie NOT;
+	- Avalie AND;
+	- Avalie OR.
+
